@@ -1,0 +1,53 @@
+.recipe-card{
+    display: flex;
+    width: 1000px;
+    margin: 0 auto;
+    padding: 35px;
+    background-color: rgb(179, 192, 216);
+    box-shadow: 5px 5px 20px gray;
+}
+
+
+.recipe-card:hover{
+
+    position: relative;
+    right: 10px;
+
+}
+
+.recipe-details{
+    position:relative;
+    top: 165px;
+    width:300px;
+    margin: 0 auto;
+    display: inline-block
+    
+}
+
+
+
+div a{
+    
+    display: block;    
+
+}
+
+
+h1{
+
+    font-size: 50px;
+
+}
+img {
+    
+    width: 400px;
+    height: auto;
+    display: block;
+    margin:8px 0 0 0;
+}
+
+h4{
+
+   color: rgb(50,100, 190); 
+
+}
